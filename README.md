@@ -10,4 +10,13 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hector-Lopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-yarn add react-icons
+import { FaBeer } from "react-icons/fa";
+
+function Question() {
+  return (
+    <h3>
+      {" "}
+      Lets go for a <FaBeer />?{" "}
+    </h3>
+  );
+}
