@@ -1,7 +1,7 @@
 ### Hi there My Name is Hector Lopes and Below you see some jobs about my portfolio and about what I'am studying  👋
 
-- 🔭 To my Professional life I'am focusing in be prepary to work with front-end
-- 🌱 I’m currently learning ...
+- 🔭 To my Professional life I'am focusing all of my time in be prepary to work with front-end specifically in React 
+
 
 
 <div>
@@ -10,3 +10,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hector-Lopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+npm install react-icons --save
