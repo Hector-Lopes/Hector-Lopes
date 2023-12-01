@@ -2,6 +2,9 @@
 
 - 🔭 To my Professional life I'am focusing all of my time in be prepary to work with front-end specifically in React 
 
+- 💻 Technologies
+- Java Script, PHP, NodeJS, SQL Server, Postgress, HTML, CSS, SCSS
+
 
 
 <div>
@@ -10,7 +13,6 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Hector-Lopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-- 💻 Technologies
-- 
+
 
 
