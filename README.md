@@ -2,8 +2,8 @@
 
 - 🔭 To my Professional life I'am focusing all of my time in be prepary to work with front-end specifically in React 
 
-- 💻 Technologies
-- Java Script, PHP, NodeJS, SQL Server, Postgress, HTML, CSS, SCSS
+ 💻 Technologies
+- ✅ Java Script, PHP, NodeJS, SQL Server, Postgress, HTML, CSS, SCSS
 
 
 
