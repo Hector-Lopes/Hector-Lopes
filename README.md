@@ -1,9 +1,10 @@
 ### Hi there My Name is Hector Lopes and Below you see some jobs about my portfolio and about what I'am studying  👋
 
-- 🔭 To my Professional life I'am focusing all of my time in be prepary to work with front-end specifically in React 
+ 🔭 To my Professional life I'am focusing all of my time in be prepary to work with front-end specifically in React 
 
  💻 Technologies
-- ✅ Java Script, PHP, NodeJS, SQL Server, Postgress, HTML, CSS, SCSS
+
+ ✅ Java Script, PHP, NodeJS, SQL Server, Postgress, HTML, CSS, SCSS
 
 
 
