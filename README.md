@@ -4,7 +4,7 @@
 
  💻 Technologies
 
- ✅ Java Script, PHP, NodeJS, SQL Server, Postgress, HTML, CSS, SCSS
+ ✅ JS, PHP, NodeJS, SQL Server, Postgress, HTML, CSS, SCSS
 
 
 
