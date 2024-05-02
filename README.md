@@ -4,7 +4,7 @@
 
  💻 Technologies
 
- ✅ JS,TS, React, PHP, NodeJS, SQL Server, Postgress, HTML, CSS, SCSS
+ ✅ JS,TS, React,ReactNative, PHP, NodeJS, SQL Server, Postgress, HTML, CSS, SCSS
 
 
 
