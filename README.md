@@ -21,11 +21,11 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
- ✅  PHP, NodeJS, SQL Server, Postgress, HTML, CSS, SCSS
+<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![PHP Version](https://img.shields.io/badge/php-%3E%3D%207.4-8892BF.svg)
-![SQL Dialect](https://img.shields.io/badge/sql-mysql-4479A1.svg)
+![SQL Dialect](https://img.shields.io/badge/sql-4479A1.svg)
 
 <div>
 <a href="https://github.com/Hector-Lopes">
