@@ -25,7 +25,7 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![PHP Version](https://img.shields.io/badge/php-%3E%3D%207.4-8892BF.svg)
-![SQL Dialect](https://img.shields.io/badge/sql-4479A1.svg)
+![SQL Dialect](https://img.shields.io/badge/SQL-4479A1.svg)
 
 <div>
 <a href="https://github.com/Hector-Lopes">
