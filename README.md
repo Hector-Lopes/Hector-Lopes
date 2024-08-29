@@ -1,6 +1,6 @@
 <h1>👋 &nbsp;Olá, eu meu nome é Hector, sou desenvolvedor full stack apaixonado pelo que faço!</h1>
 <p align="center">
-<a href="https://instagram.com/dicasparadevs(https://www.instagram.com/_lopessszz/)"><img src="https://img.shields.io/badge/-@HectorLopes_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/_lopessszz/"><img src="https://img.shields.io/badge/-@HectorLopes_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/hector-lopes-34b737250/"><img src="https://img.shields.io/badge/-Hector%20Lopes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 </p>
