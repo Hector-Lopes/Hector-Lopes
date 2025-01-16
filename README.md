@@ -7,7 +7,7 @@
 
 
 - 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com programção perto dos 14 anos quando quis subir um servidor de jogo online e comecei a pesquisar sobre tecnologias assim descubri meu gosto por criar coisa e densenvolvimento.
-- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript (Node,PHP, React & React Native) para desenvolver em ambas as frentes.
+- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript e TypeScript (NodeJs,PHP, React & React Native) para desenvolver em ambas as frentes.
 - 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
